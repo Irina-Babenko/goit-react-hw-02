@@ -1,0 +1,15 @@
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.container {
+  width: 1440px;
+  height: 700px;
+  padding: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  background-image: url('/src/assets/coffe.jpg');
+  background-repeat: no-repeat;
+}

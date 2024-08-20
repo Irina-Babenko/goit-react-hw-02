@@ -1,0 +1,12 @@
+.title {
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  color: rgb(214, 204, 188);
+  margin-top: 10px;
+}
+
+.text {
+  font-size: 1.5rem;
+  color: rgb(250, 248, 246);
+  margin-top: -15px;
+}
